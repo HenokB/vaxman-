@@ -1,5 +1,5 @@
 #Pacman in Python with PyGame
-#https://github.com/HenokB/EA-Internship
+#https://github.com/HenokB/vaxman-
   
 
 import pygame
