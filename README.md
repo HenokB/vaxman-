@@ -14,3 +14,4 @@ This game is called Vax-Man. The rules are similar to Pac-Man with several notab
 Original pacman game by Hans-Jürgen Pokmann
 https://github.com/hbokmann/Pacman
 
+© 2022 Henok Ademtew
